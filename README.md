@@ -1,1 +1,3 @@
-# alif2005
+# ddos
+# By @xYz_CriminalL
+@SERVER FREEZE 
